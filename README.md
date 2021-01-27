@@ -4,7 +4,7 @@ Dieses Repository ist eine Sammlung aller Aufgaben und Lösungen des "Labor's Pr
 Wintersemester 2020/21 Hochschule Esslingen.
 ##  Aufbau von diesem Repository:
 ##### >Hauptordner-> Labore (mit Nummern)
-##### >Unterordner-> Einzelne Aufgaben jeweils in einem Ordner
+##### >Unterordner-> Einzelne Aufgaben jeweils in einem Ordner (verschiedene Lösungen einfach in den Unterordner laden)
 
 ## Wichtig:
 
